@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/mamata/day_one_task/venv/bin/Scripts/Python libraries/chatbot/model.tflearn"
+all_model_checkpoint_paths: "/home/mamata/day_one_task/venv/bin/Scripts/Python libraries/chatbot/model.tflearn"
